@@ -1,0 +1,2 @@
+# BankingData
+The project is related with direct marketing campaigns of a Portuguese banking institution. The marketing campaigns were based on phone calls. Often more than one call to the same client was required in order to finalize whether or not they had subscribed to a term deposit. A term deposit is a cash investment to a financial institution for an agreed interest rate over a fixed time period
